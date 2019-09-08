@@ -1,5 +1,11 @@
 # Tic Tac Toe
 
+1. [Description](#description)
+2. [Prerequisites](#prerequisites)
+3. [Prompt](#prompt)
+4. [Testing](#testing)
+5. [Extensions](#extensions)
+
 ## Description
 
 In this project, you'll be recreating the classic game of Tic Tac Toe played on a 3-by-3 board. This will be played by two human players, taking turns until the game is over.
